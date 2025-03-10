@@ -6,7 +6,7 @@ A passionate **Data Analyst** from India
 ![Profile views](https://komarev.com/ghpvc/?username=SuyashMahindrakar&color=blue)
 
 ### 📩 How to reach me
-📧 [suyashmahindrakar@gmail.com](mailto:suyashmahindrakar@gmail.com)
+📧 [suyashmahindrakar7@gmail.com](mailto:suyashmahindrakar7@gmail.com)
 
 ### 📱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyashmahindrakar)
