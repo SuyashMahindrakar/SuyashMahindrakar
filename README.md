@@ -29,7 +29,9 @@ A passionate **Data Analyst** from India
 ### 📂 Featured Projects  
 - 🍕 **[SQL Pizza Sales Analysis](https://github.com/SuyashMahindrakar/SQL_pizza_sales)**  
 - 💵 **[Bank Loan Data Analysis](https://github.com/SuyashMahindrakar/Bank_Loan_Analysis)**  
-- 🛒 **[Blinkit Sales Dashboard](https://github.com/SuyashMahindrakar/Blinkit_PowerBI)**    
+- 🛒 **[Blinkit Sales Dashboard](https://github.com/SuyashMahindrakar/Blinkit_PowerBI)**
+- ☕ **[Coffee Shop Sales](https://github.com/SuyashMahindrakar/Coffee-Shop-Sales)**
+- 📚 **[SQL Book Store](https://github.com/SuyashMahindrakar/SQL-Book_Store-Project)**
 
 ---
 💡 *Always exploring new datasets and solving challenging queries!*
