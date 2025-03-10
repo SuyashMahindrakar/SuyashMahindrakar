@@ -7,6 +7,7 @@ A passionate **Data Analyst** from India
 
 ### 📩 How to reach me
 📧 [suyashmahindrakar7@gmail.com](mailto:suyashmahindrakar7@gmail.com)
+📞 [7718078361]
 
 ### 📱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-mahindrakar/)
@@ -19,10 +20,16 @@ A passionate **Data Analyst** from India
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🚀 About Me
-- 📊 **1+ year** experience as **Sports Data Analyst** at **Hudl**
-- 💻 Completed projects like **Pizza Sales Analysis, Bank Loan Analysis, Blinkit Dashboard**
-- 📈 Passionate about deriving insights from data using **SQL, Excel, Power BI, and Tableau**
+### 🚀 About Me  
+- 💼 **1+ year** experience as a **Sports Data Analyst** at **Hudl**  
+- 📊 Worked on projects like **Pizza Sales Analysis, Bank Loan Analysis, Blinkit Dashboard**  
+- 💡 Skilled in **SQL, Excel, Power BI, Tableau, and Python**  
+- 📈 Passionate about transforming raw data into actionable insights
+
+### 📂 Featured Projects  
+- 🍕 **[SQL Pizza Sales Analysis](https://github.com/SuyashMahindrakar/SQL_pizza_sales)**  
+- 💵 **[Bank Loan Data Analysis](https://github.com/SuyashMahindrakar/Bank_Loan_Analysis)**  
+- 🛒 **[Blinkit Sales Dashboard](https://github.com/SuyashMahindrakar/Blinkit_PowerBI)**    
 
 ---
 💡 *Always exploring new datasets and solving challenging queries!*
