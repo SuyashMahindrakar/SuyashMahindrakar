@@ -9,8 +9,7 @@ A passionate **Data Analyst** from India
 📧 [suyashmahindrakar7@gmail.com](mailto:suyashmahindrakar7@gmail.com)
 
 ### 📱 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyashmahindrakar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/suyashmahindrakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-mahindrakar/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/suyashmahindrakar)
 
 ### 🛠 Languages and Tools:
