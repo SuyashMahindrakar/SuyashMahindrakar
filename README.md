@@ -33,5 +33,5 @@ A passionate **Data Analyst** from India
 - ☕ **[Coffee Shop Sales](https://github.com/SuyashMahindrakar/Coffee-Shop-Sales)**
 - 📚 **[SQL Book Store](https://github.com/SuyashMahindrakar/SQL-Book_Store-Project)**
 
+💡 *Always exploring new datasets and solving challenging queries!* 
 ---
-💡 *Always exploring new datasets and solving challenging queries!*
