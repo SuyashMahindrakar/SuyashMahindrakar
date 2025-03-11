@@ -7,7 +7,7 @@ A passionate **Data Analyst** from India
 
 ### 📩 How to reach me
 📧 [suyashmahindrakar7@gmail.com](mailto:suyashmahindrakar7@gmail.com)
-📞 [7718078361]
+📞 [7718078361](7718078361)
 
 ### 📱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-mahindrakar/)
