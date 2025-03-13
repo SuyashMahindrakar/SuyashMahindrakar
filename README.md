@@ -1,4 +1,4 @@
-## Hi 👋, I'm Suyash Mahindrakar
+## Hi 👋
 
 A passionate **Data Analyst** from India
 
